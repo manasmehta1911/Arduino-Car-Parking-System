@@ -1,6 +1,3 @@
-// Viral Science www.viralsciencecreativity.com www.youtube.com/c/viralscience
-// Arduino Car Parking System
-
 #include <Wire.h> 
 #include <LiquidCrystal_I2C.h>
 LiquidCrystal_I2C lcd(0x3F,16,2);  //Change the HEX address
