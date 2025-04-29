@@ -28,4 +28,4 @@
 - Then Open Serial Monitor to get your Hexadecimal Code (I2C Address)
 - Then in Car_Parking_System search for the Change Hex Address Comment and replace the Hex Address
 
-- You can change the slots depending on your total parking space
+**You can change the slots depending on your total parking space**
