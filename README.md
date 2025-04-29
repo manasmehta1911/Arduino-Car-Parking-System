@@ -1,5 +1,5 @@
 **Do the connections as shown in the figure**
-**For Infrared (IR) Sensors**
+ **For Infrared (IR) Sensors**
 You are using two IR obstacle detection sensors.
 IR Sensor 1
 VCC → Arduino 5V
